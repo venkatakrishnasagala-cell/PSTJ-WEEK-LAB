@@ -13,5 +13,3 @@ public class Task1_Determine_String_Halves_Are_Alike {
         sc.close();
     }
 }
-// Input: book
-// Output: true
